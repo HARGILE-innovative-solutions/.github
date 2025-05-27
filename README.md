@@ -393,12 +393,12 @@ graph LR
 > *We're always interested in challenging projects that push the boundaries of technology*
 
 
-**🏢 Enterprise Solutions (Laravel, React, Vue.js)**
-**📱 Mobile Applications (React Native, Native iOS/Android)**
-**🛒 E-commerce Platforms (PrestaShop, WooCommerce, Custom)**
-**🤖 AI Integration & Automation**
-**💳 Payment Gateway Integration (Worldline SIPS, Stripe)**
-**🚀 Legacy System Modernization**
+**🏢 Enterprise Solutions (Laravel, React, Vue.js)**<br/>
+**📱 Mobile Applications (React Native, Native iOS/Android)**<br/>
+**🛒 E-commerce Platforms (PrestaShop, WooCommerce, Custom)**<br/>
+**🤖 AI Integration & Automation**<br/>
+**💳 Payment Gateway Integration (Worldline SIPS, Stripe)**<br/>
+**🚀 Legacy System Modernization**<br/>
 
 </div>
 
