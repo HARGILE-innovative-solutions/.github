@@ -33,8 +33,6 @@ We specialize in complex payment integrations and e-commerce solutions:
 
 - **Worldline SIPS Integration** - Certified expertise in SIPS Atos implementation
 - **Multi-gateway Architecture** - Seamless switching between payment providers
-- **PSD2 Compliance** - Strong Customer Authentication (SCA) implementation
-- **Subscription Management** - Recurring payments with Laravel Cashier
 - **Marketplace Solutions** - Split payments and vendor management
 - **Custom E-commerce** - Tailored solutions beyond standard platforms
 
@@ -95,7 +93,6 @@ Delivering quality through best practices
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
@@ -160,10 +157,8 @@ Delivering quality through best practices
 **Laravel Ecosystem** 🔴
 - Spatie packages suite (Permissions, Media Library, etc.)
 - Laravel Sanctum & Passport
-- Laravel Nova & Filament
 - Laravel Livewire & Inertia.js
-- Laravel Horizon, Telescope & Debugbar
-- Laravel Cashier & Spark
+- Laravel Horizon, Telescope
 
 </td>
 <td align="center" width="50%">
@@ -172,7 +167,6 @@ Delivering quality through best practices
 - TanStack Query (React Query)
 - Material-UI (MUI) & Ant Design
 - React Hook Form & Formik
-- Zustand & Redux Toolkit
 - React Testing Library & Cypress
 - Framer Motion & React Spring
 
@@ -196,7 +190,6 @@ Delivering quality through best practices
 - Worldline SIPS Integration
 - Stripe & Stripe Connect
 - PayPal & Mollie APIs
-- Banking APIs (PSD2 Compliant)
 - Laravel Cashier Integration
 - Custom Payment Gateways
 
@@ -241,7 +234,6 @@ Delivering quality through best practices
 **Features:**
 - 🔐 **Secure Authentication**: Encrypted credentials and NFC badges
 - 💳 **Electronic Wallet**: Integrated financial transaction system
-- 💬 **Communication Portal**: Real-time parent-school messaging
 - 📊 **Financial Management**: Comprehensive budgeting and reporting
 - 🚀 **Scalable Architecture**: Supporting thousands of concurrent users
 
@@ -265,27 +257,6 @@ Delivering quality through best practices
 - 🔌 **Network Integration**: Multiple charging operators supported
 
 **Tech Stack:** React Native, Node.js, MongoDB, GraphQL, Redis, Docker
-
-</details>
-
----
-
-### 🔄 Multipass - Adaptive CRM Platform
-> **Flexible CRM solution that grows with your business**
-
-<details>
-<summary><b>View Features & Tech Stack</b></summary>
-
-**Features:**
-- 🧩 **Modular Design**: Activate only what you need
-- 🔗 **Seamless Integration**: Connect with existing systems
-- 📈 **Advanced Analytics**: Customizable dashboards and reports
-- ☁️ **Multi-tenant SaaS**: Enterprise-ready architecture
-- 🛠️ **API-First**: Maximum extensibility and customization
-
-**Tech Stack:** Laravel, React, PostgreSQL, Redis, Kubernetes, GraphQL
-
-</details>
 
 ---
 
@@ -458,7 +429,7 @@ we're here to transform your ideas into reality using modern, scalable technolog
 
 <br>
 
-**Core Stack:** Laravel | React | Vue.js | TypeScript | Docker | AWS | TDD | SOLID | DDD
+**Core Stack:** Laravel | React | Vue.js | TypeScript | Docker | TDD | SOLID | DDD
 
 <br>
 
