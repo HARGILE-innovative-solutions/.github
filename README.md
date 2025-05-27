@@ -10,7 +10,7 @@
 
 [![Website](https://img.shields.io/badge/Website-hargile.com-blue?style=for-the-badge&logo=google-chrome)](https://hargile.com)
 [![Location](https://img.shields.io/badge/Location-Brussels%2C%20Belgium-success?style=for-the-badge&logo=google-maps)](https://maps.google.com/?q=Brussels,Belgium)
-[![Email](https://img.shields.io/badge/Contact-dev%40hargile.com-red?style=for-the-badge&logo=gmail)](mailto:dev@hargile.com)
+[![Email](https://img.shields.io/badge/Contact-dev%40hargile.com-red?style=for-the-badge&logo=gmail)](mailto:info@hargile.com)
 
 <br/>
 
@@ -434,7 +434,7 @@ graph LR
 <br>
 
 **🌐 Website**: [hargile.com](https://hargile.com)  
-**📧 Email**: [dev@hargile.com](mailto:dev@hargile.com)  
+**📧 Email**: [dev@hargile.com](mailto:info@hargile.com)  
 **📍 Location**: Brussels, Belgium
 
 <br>
