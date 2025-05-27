@@ -137,7 +137,7 @@ Delivering quality through best practices
 <div align="center">
 
 | Principle | Description |
-|:---------:|:------------|
+|:---------|:------------|
 | 🧪 **Test-Driven Development (TDD)** | Quality assured through comprehensive testing |
 | 🏗️ **SOLID Principles** | Clean, maintainable, and scalable code architecture |
 | 🎯 **Domain-Driven Design (DDD)** | Business logic at the heart of software design |
@@ -355,7 +355,7 @@ graph LR
 <div align="center">
 
 | Type | Description |
-|:----:|:------------|
+|----:|:------------|
 | 📦 **Laravel Packages** | Custom packages extending Laravel functionality |
 | ⚛️ **React Components** | Reusable UI components and hooks |
 | 🛠️ **Development Tools** | CLI tools, GitHub Actions, Docker configurations |
