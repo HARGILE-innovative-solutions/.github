@@ -27,15 +27,6 @@
 
 </div>
 
-### 💳 E-commerce & Payment Integration Expertise
-
-We specialize in complex payment integrations and e-commerce solutions:
-
-- **Worldline SIPS Integration** - Certified expertise in SIPS Atos implementation
-- **Multi-gateway Architecture** - Seamless switching between payment providers
-- **Marketplace Solutions** - Split payments and vendor management
-- **Custom E-commerce** - Tailored solutions beyond standard platforms
-
 ---
 
 ## 🎯 About Us
