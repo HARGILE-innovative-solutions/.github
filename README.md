@@ -394,15 +394,10 @@ graph LR
 
 
 **🏢 Enterprise Solutions (Laravel, React, Vue.js)**
-
 **📱 Mobile Applications (React Native, Native iOS/Android)**
-
 **🛒 E-commerce Platforms (PrestaShop, WooCommerce, Custom)**
-
 **🤖 AI Integration & Automation**
-
 **💳 Payment Gateway Integration (Worldline SIPS, Stripe)**
-
 **🚀 Legacy System Modernization**
 
 </div>
