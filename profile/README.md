@@ -441,6 +441,6 @@ we're here to transform your ideas into reality using modern, scalable technolog
 
 <br>
 
-**© 2025 HARGILE - Digital Innovation Agency**
+**© 2025 HARGILE innovative solutions - Digital Innovation Agency**
 
 </div>
