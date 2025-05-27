@@ -258,9 +258,6 @@ Delivering quality through best practices
 
 **Tech Stack:** React Native, Node.js, MongoDB, GraphQL, Redis, Docker
 
----
-
----
 
 ## 💻 Technical Capabilities
 
