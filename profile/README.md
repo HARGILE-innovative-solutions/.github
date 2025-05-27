@@ -155,7 +155,7 @@ Delivering quality through best practices
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
+<td align="left" width="50%">
 
 **Laravel Ecosystem** 🔴
 - Spatie packages suite (Permissions, Media Library, etc.)
@@ -164,7 +164,7 @@ Delivering quality through best practices
 - Laravel Horizon, Telescope
 
 </td>
-<td align="center" width="50%">
+<td align="left" width="50%">
 
 **React Ecosystem** ⚛️
 - TanStack Query (React Query)
@@ -176,7 +176,7 @@ Delivering quality through best practices
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td align="left" width="50%">
 
 **Vue.js Ecosystem** 💚
 - Vuex & Pinia
@@ -187,7 +187,7 @@ Delivering quality through best practices
 - Nuxt.js modules ecosystem
 
 </td>
-<td align="center" width="50%">
+<td align="left" width="50%">
 
 **Payment Solutions** 💳
 - Worldline SIPS Integration
@@ -199,7 +199,7 @@ Delivering quality through best practices
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td align="left" width="50%">
 
 **DevOps & Tools** 🛠️
 - Docker & Docker Compose
@@ -210,7 +210,7 @@ Delivering quality through best practices
 - Monitoring (Sentry, New Relic)
 
 </td>
-<td align="center" width="50%">
+<td align="left" width="50%">
 
 **Testing Suite** 🧪
 - PHPUnit & Pest PHP
