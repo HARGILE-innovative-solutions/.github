@@ -260,6 +260,8 @@ Delivering quality through best practices
 
 ---
 
+---
+
 ## 💻 Technical Capabilities
 
 ### 🌐 Web Development
