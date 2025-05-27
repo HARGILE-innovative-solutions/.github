@@ -48,21 +48,21 @@ We specialize in complex payment integrations and e-commerce solutions:
 
 ### 💡 Innovation
 Pushing boundaries with emerging technologies
-<br/>
+<br/><br/>
 
 </td>
 <td width="33%" align="center">
 
 ### 🤝 Partnership
 Working as an extension of your team
-<br/>
+<br/><br/>
 
 </td>
 <td width="33%" align="center">
 
 ### 🔧 Excellence
 Delivering quality through best practices
-<br/>
+<br/><br/>
 
 </td>
 </tr>
