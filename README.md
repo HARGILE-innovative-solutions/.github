@@ -48,18 +48,21 @@ We specialize in complex payment integrations and e-commerce solutions:
 
 ### 💡 Innovation
 Pushing boundaries with emerging technologies
+<br/><br/>
 
 </td>
 <td width="33%" align="center">
 
 ### 🤝 Partnership
 Working as an extension of your team
+<br/><br/>
 
 </td>
 <td width="33%" align="center">
 
 ### 🔧 Excellence
 Delivering quality through best practices
+<br/><br/>
 
 </td>
 </tr>
@@ -137,7 +140,7 @@ Delivering quality through best practices
 <div align="center">
 
 | Principle | Description |
-|:---------:|:------------|
+|:---------|:------------|
 | 🧪 **Test-Driven Development (TDD)** | Quality assured through comprehensive testing |
 | 🏗️ **SOLID Principles** | Clean, maintainable, and scalable code architecture |
 | 🎯 **Domain-Driven Design (DDD)** | Business logic at the heart of software design |
@@ -152,7 +155,7 @@ Delivering quality through best practices
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
+<td align="left" width="50%">
 
 **Laravel Ecosystem** 🔴
 - Spatie packages suite (Permissions, Media Library, etc.)
@@ -161,7 +164,7 @@ Delivering quality through best practices
 - Laravel Horizon, Telescope
 
 </td>
-<td align="center" width="50%">
+<td align="left" width="50%">
 
 **React Ecosystem** ⚛️
 - TanStack Query (React Query)
@@ -173,7 +176,7 @@ Delivering quality through best practices
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td align="left" width="50%">
 
 **Vue.js Ecosystem** 💚
 - Vuex & Pinia
@@ -184,7 +187,7 @@ Delivering quality through best practices
 - Nuxt.js modules ecosystem
 
 </td>
-<td align="center" width="50%">
+<td align="left" width="50%">
 
 **Payment Solutions** 💳
 - Worldline SIPS Integration
@@ -196,7 +199,7 @@ Delivering quality through best practices
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td align="left" width="50%">
 
 **DevOps & Tools** 🛠️
 - Docker & Docker Compose
@@ -207,7 +210,7 @@ Delivering quality through best practices
 - Monitoring (Sentry, New Relic)
 
 </td>
-<td align="center" width="50%">
+<td align="left" width="50%">
 
 **Testing Suite** 🧪
 - PHPUnit & Pest PHP
@@ -258,7 +261,10 @@ Delivering quality through best practices
 
 **Tech Stack:** React Native, Node.js, MongoDB, GraphQL, Redis, Docker
 
+</details>
+
 ---
+
 
 ## 💻 Technical Capabilities
 
@@ -352,7 +358,7 @@ graph LR
 <div align="center">
 
 | Type | Description |
-|:----:|:------------|
+|:----|:------------|
 | 📦 **Laravel Packages** | Custom packages extending Laravel functionality |
 | ⚛️ **React Components** | Reusable UI components and hooks |
 | 🛠️ **Development Tools** | CLI tools, GitHub Actions, Docker configurations |
